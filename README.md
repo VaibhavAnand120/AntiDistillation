@@ -108,10 +108,6 @@ Potential extensions include:
 
 ---
 
-## Author
 
-**Vaibhav Anand**
-
-GitHub: https://github.com/VaibhavAnand120
 
 ---
